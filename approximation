@@ -156,6 +156,7 @@ double least_squares_approximation(double x) {
     return value;
 }
 
+
 int main() {
     double a = -1, b = 1; // integration range
     double x = -0.25; // point at which we calculate the approximation
